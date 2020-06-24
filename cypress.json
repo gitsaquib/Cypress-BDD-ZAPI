@@ -1,0 +1,6 @@
+{
+  "projectId": "43wquf",
+  "baseUrl": "https://demo.applitools.com/gridHackathonV1.html",
+  "chromeWebSecurity": false,
+  "testFiles": "**/*.{feature,features}"
+}
